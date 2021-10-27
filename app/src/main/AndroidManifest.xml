@@ -11,9 +11,11 @@
         android:theme="@style/Theme.TerceraAplicacion">
         <activity
             android:name=".CategoriaActivity3"
+            android:label="@string/categoria"
             android:exported="false" />
         <activity
             android:name=".ProductoActivity2"
+            android:label="@string/Producto"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
